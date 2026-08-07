@@ -1,0 +1,342 @@
+{
+  "summary": {
+    "key": "E major",
+    "tempo_bpm": 110,
+    "duration_seconds": 11.2,
+    "vocal_range": "E2 to G#4 (two octaves)",
+    "primary_notes": [
+      "E4",
+      "F4",
+      "G#4"
+    ],
+    "voiced_percent": 78.26086956521739,
+    "num_phrases_detected": 25
+  },
+  "phrase_notes": [
+    {
+      "phrase": 1,
+      "length_frames": 23,
+      "contour": [
+        "E4",
+        "D#4",
+        "E4"
+      ]
+    },
+    {
+      "phrase": 2,
+      "length_frames": 203,
+      "contour": [
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "D#4",
+        "D4",
+        "D#4",
+        "E4",
+        "F4",
+        "F#4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "F#4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "D#4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "D#4",
+        "E4",
+        "D#4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "D#4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "D#4",
+        "E4",
+        "F4"
+      ]
+    },
+    {
+      "phrase": 3,
+      "length_frames": 32,
+      "contour": [
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4"
+      ]
+    },
+    {
+      "phrase": 4,
+      "length_frames": 22,
+      "contour": [
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "F#4",
+        "F4",
+        "E4"
+      ]
+    },
+    {
+      "phrase": 5,
+      "length_frames": 24,
+      "contour": [
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4"
+      ]
+    },
+    {
+      "phrase": 6,
+      "length_frames": 27,
+      "contour": [
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4"
+      ]
+    },
+    {
+      "phrase": 7,
+      "length_frames": 13,
+      "contour": [
+        "E4",
+        "F4",
+        "E4"
+      ]
+    },
+    {
+      "phrase": 8,
+      "length_frames": 30,
+      "contour": [
+        "E4",
+        "D#4",
+        "E4",
+        "D#4",
+        "E4",
+        "F4",
+        "E4",
+        "D#4",
+        "D4",
+        "D#4",
+        "D4",
+        "D#4",
+        "E4"
+      ]
+    },
+    {
+      "phrase": 9,
+      "length_frames": 18,
+      "contour": [
+        "E4",
+        "F4",
+        "E4",
+        "D#4",
+        "D4",
+        "D#4",
+        "E4",
+        "F4",
+        "E4",
+        "F4",
+        "E4"
+      ]
+    },
+    {
+      "phrase": 10,
+      "length_frames": 43,
+      "contour": [
+        "F4",
+        "E4",
+        "D#4",
+        "E4"
+      ]
+    },
+    {
+      "phrase": 11,
+      "length_frames": 13,
+      "contour": [
+        "G#3"
+      ]
+    },
+    {
+      "phrase": 12,
+      "length_frames": 8,
+      "contour": [
+        "G#4"
+      ]
+    },
+    {
+      "phrase": 13,
+      "length_frames": 20,
+      "contour": [
+        "G#4"
+      ]
+    },
+    {
+      "phrase": 14,
+      "length_frames": 18,
+      "contour": [
+        "G#4"
+      ]
+    },
+    {
+      "phrase": 15,
+      "length_frames": 17,
+      "contour": [
+        "E2"
+      ]
+    },
+    {
+      "phrase": 16,
+      "length_frames": 43,
+      "contour": [
+        "E2"
+      ]
+    },
+    {
+      "phrase": 17,
+      "length_frames": 19,
+      "contour": [
+        "E2"
+      ]
+    },
+    {
+      "phrase": 18,
+      "length_frames": 23,
+      "contour": [
+        "E4"
+      ]
+    },
+    {
+      "phrase": 19,
+      "length_frames": 53,
+      "contour": [
+        "G4",
+        "F#4",
+        "F4",
+        "E4",
+        "F4",
+        "F#4",
+        "F4",
+        "E4",
+        "F#4",
+        "D#4",
+        "F4",
+        "E4",
+        "F4"
+      ]
+    },
+    {
+      "phrase": 20,
+      "length_frames": 25,
+      "contour": [
+        "F4",
+        "E4"
+      ]
+    },
+    {
+      "phrase": 21,
+      "length_frames": 26,
+      "contour": [
+        "E2"
+      ]
+    },
+    {
+      "phrase": 22,
+      "length_frames": 10,
+      "contour": [
+        "A2"
+      ]
+    },
+    {
+      "phrase": 23,
+      "length_frames": 11,
+      "contour": [
+        "E4"
+      ]
+    },
+    {
+      "phrase": 24,
+      "length_frames": 13,
+      "contour": [
+        "G#4"
+      ]
+    },
+    {
+      "phrase": 25,
+      "length_frames": 22,
+      "contour": [
+        "F4",
+        "F#4",
+        "E4",
+        "D#4"
+      ]
+    }
+  ]
+}

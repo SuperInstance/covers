@@ -1,0 +1,83 @@
+
+=== V5 PROMPT CATALOG: NEW APPROACHES ===
+=== Designed for Casey's "One Day" - E major, 110 BPM ===
+
+--- PROMPT 1: The Nashville Confession ---
+Style: Alternative country-folk, Jason Isbell meets Iron & Wine
+Production: Warm tube amp guitar, brushed drums, pedal steel crying in the background
+Vocals: Weathered male baritone, slight gravel on sustained notes, intimate closeness
+Arrangement: Fingerpicked acoustic intro → verse with light drums → chorus with pedal steel → sparse second verse → full band final chorus
+Tempo: 85 BPM, key of E major
+Emotional arc: Starts resigned, builds to defiant acceptance
+
+Prompt: "Alternative country-folk in the vein of Jason Isbell's 'Elephant' crossed with Iron & Wine's early work. A weathered male voice sings over fingerpicked acoustic guitar with warm tube amp character. Pedal steel guitar enters on the chorus, weeping quietly. Brushed snare and upright bass provide gentle rhythm. The production is warm and close-miked, like sitting in a small room with the musician. No reverb on the vocals — just the natural room sound. The singer has lived with these words for decades and finds new weight in them now."
+
+--- PROMPT 2: The 3AM Kitchen Table ---
+Style: Lo-fi bedroom folk, Elliott Smith meets Sufjan Stevens
+Production: Four-track cassette warmth, double-tracked vocals slightly out of phase
+Vocals: Breathy male tenor, half-whispered, barely above a murmur
+Arrangement: Just acoustic guitar and voice, maybe a distant piano
+Tempo: 72 BPM, key of E major (capo 4, playing C shapes)
+Emotional arc: Devastating quietness, every word costs something
+
+Prompt: "Lo-fi bedroom folk recorded on a four-track cassette. The sound is intimate to the point of discomfort — you can hear the guitarist's fingers on the strings, the singer breathing between lines. Double-tracked vocals are slightly out of phase, creating a ghostly unison. A distant piano appears in the second verse, barely audible. The voice is a breathy male tenor, half-whispered, as if singing after everyone else has gone to sleep. No drums. No bass. Just the skeleton of the song exposed."
+
+--- PROMPT 3: The Gospel-Folk Hymn ---
+Style: Hozier meets The Lumineers, spiritual folk rock
+Production: Starts with solo acoustic, builds to full choir on final chorus
+Vocals: Clear male tenor with rasp on emotional peaks, joined by female harmonies
+Arrangement: Solo verse → add stomp/clap → add bass → chorus with harmonies → bridge with just voice → explosive final chorus with choir
+Tempo: 100 BPM, key of E major
+Emotional arc: From private prayer to public celebration
+
+Prompt: "Gospel-inflected folk rock that builds from a single voice and acoustic guitar to a full choir. The opening verse is solo — just a clear male tenor with a slight rasp, singing over fingerpicked guitar in E major. By the first chorus, hand claps and a stomp board join. The second verse adds an upright bass. The bridge strips everything away — just the voice, raw and exposed. Then the final chorus explodes with a full gospel choir singing harmonies, a Hammond organ swelling underneath, drums crashing on the downbeats. It sounds like a revival tent in the deep south."
+
+--- PROMPT 4: The Celtic Ballad ---
+Style: Planxty meets Sinead O'Connor, traditional Irish folk
+Production: Warm room sound, sparse instrumentation
+Vocals: Clear male tenor with slight Irish inflection on certain vowels
+Arrangement: Uilleann pipes intro → guitar and voice → add bodhrán on chorus → pipes return for final verse
+Tempo: 80 BPM, key of E major (dropped-D tuning)
+Emotional arc: Wistful, nostalgic, with ancient weight
+
+Prompt: "Traditional Celtic folk ballad adapted to contemporary indie production. Dropped-D acoustic guitar fingerpicking in E major, with uilleann pipes threading through the arrangement like smoke. A bodhrán frame drum provides a heartbeat rhythm on the choruses. The male voice is clear and unaffected, with a slight Irish inflection on elongated vowels — not exaggerated, just present. The production avoids modern sheen; everything sounds like it was recorded in a stone church. Fiddle enters on the final chorus, playing counter-melodies around the vocal line."
+
+--- PROMPT 5: The Chamber Folk Meditation ---
+Style: Sufjan Stevens meets Nick Drake, orchestral folk
+Production: Lush but restrained, cinematic without being bombastic
+Vocals: Whispered male tenor, close-miked, lips nearly touching the mic
+Arrangement: Classical guitar → add cello drone → verse with piano accents → chorus with string quartet → ambient breakdown → final chorus with full strings
+Tempo: 65 BPM, key of E major
+Emotional arc: Meditative, transcendent, finding peace
+
+Prompt: "Chamber folk with the intimacy of Nick Drake and the orchestral ambition of Sufjan Stevens' 'Carrie & Lowell.' A classical nylon-string guitar fingerpicks in E major at 65 BPM. A cello holds a drone underneath. The male voice is whispered, close-miked — you can hear every intake of breath. Piano notes fall like raindrops in the second verse. The chorus introduces a string quartet playing slow, suspensive chords. There are no drums anywhere. The final chorus adds a choir of layered vocals, all the same voice, creating a one-man congregation. The song ends with a single guitar harmonic ringing into silence."
+
+--- PROMPT 6: The Blues-Folk Crossroads ---
+Style: Chris Whitley meets Ben Harper, bluesy folk
+Production: Slide guitar, gritty vocal, foot-stomp rhythm
+Vocals: Gritty male baritone with blues phrasing
+Arrangement: Slide guitar intro → gritty verse → bottleneck accents → harmonica on chorus
+Tempo: 90 BPM, key of E major (open E tuning)
+Emotional arc: World-weary but resilient, finding grit
+
+Prompt: "Delta blues meets indie folk. Open-E tuned acoustic guitar with a slide, played with both dirt and delicacy. The male voice is a gritty baritone that can break into a falsetto on emotional peaks. A foot stomp on a wooden floor provides the only percussion. Harmonica accents punctuate the choruses, played through a cupped mic for that compressed, tinny sound. The production is bone-dry — no reverb, no delay, just the raw sound of a person and their instrument on a porch somewhere. Think Chris Whitley's 'Living with the Law' but recorded in 2026."
+
+--- PROMPT 7: The Ambient Folk Dreamscape ---
+Style: Bon Iver meets Sigur Rós, ethereal folk
+Production: Heavy reverb, layered vocals, processed guitar textures
+Vocals: Falsetto male voice, treated with slight auto-tune for ethereal effect
+Arrangement: Guitar swell intro → falsetto verse → synth pad chorus → vocal layering → crescendo → dissolve
+Tempo: 60 BPM, key of E major
+Emotional arc: Otherworldly, dissolving boundaries between past and present
+
+Prompt: "Ambient folk soundscapes inspired by Bon Iver's 'For Emma, Forever Ago' filtered through Sigur Rós' atmospheric approach. Acoustic guitar is processed through reverse reverbs and granular delays. The male vocal is primarily in falsetto, treated with subtle auto-tune for an otherworldly quality. Synth pads swell underneath, creating a bed of sound rather than a traditional arrangement. The choruses layer five or six vocal tracks, all the same singer, creating a choir of one. At the 2-minute mark, everything drops out except a single guitar harmonic and a whispered vocal. The song rebuilds slowly, ending in a wash of sound that fades like a memory."
+
+--- PROMPT 8: The Fingerstyle Virtuoso ---
+Style: Tommy Emmanuel meets Andy McKee, instrumental guitar showcase
+Production: Close-miked steel string, crystal clear
+Vocals: None — instrumental, guitar carries the melody
+Arrangement: Solo fingerstyle guitar, alternating bass lines with melody on top
+Tempo: 95 BPM, key of E major
+Emotional arc: Technical beauty serving emotional depth
+
+Prompt: "Solo fingerstyle acoustic guitar, no vocals. The guitar plays the melody of the song using Travis picking — alternating bass notes with melody lines on the higher strings. Natural harmonics ring out at key emotional moments. The tuning is standard E major. The production is close-miked and intimate — you can hear the pick attack, the string squeaks, the body of the guitar resonating. Think Tommy Emmanuel's 'Classical Gas' or Andy McKee's 'Drifting' — technically dazzling but emotionally direct. The song's structure is preserved: verse-chorus-verse-chorus, but the guitar does all the singing."
