@@ -64,14 +64,14 @@ MIT (code), individual track rights vary by source
 - 🔗 [ACE-Step 1.5](https://github.com/SuperInstance/ACE-Step-1.5) — The primary music generation pipeline. SongForge sessions.
 - 🔗 [AI-Writings](https://github.com/SuperInstance/AI-Writings/tree/main/prose) — Every cover has a story, every story has a sound. The Three Rooms prompts are creative prose.
 - 🔗 [AI-Writings / Night Watch](https://github.com/SuperInstance/AI-Writings/tree/main/night-watch) — The overnight sessions where covers were generated.
-- 🔗 [Tensor-MIDI](https://github.com/SuperInstance/tensor-midi) — The 12-pulse engine. Musical timing IS timing. Cover songs land on the grid.
+- 🔗 [Tensor-MIDI](https://github.com/SuperInstance/fleet-jepa-midi) — The 12-pulse engine. Musical timing IS timing. Cover songs land on the grid.
 - 🔗 [Roblox Beatclock](https://github.com/SuperInstance/roblox-beatclock) — Musical timing, TestKit. MIDI extracted from covers feeds the beat clock.
 - 🔗 [Wesley Holodeck](https://github.com/SuperInstance/wesley-holodeck) — The creative loop. Covers ARE the holodeck output in audio form.
-- 🔗 [Wesley's Journal](https://github.com/SuperInstance/wesley-journal) — Experiment 027: "the GPU dreams." The covers project is the dream.
-- 🔗 [The Living Minds](https://github.com/SuperInstance/the-living-minds) — Multiple minds generated covers: Qwen, Phi3, MMX, Casey, DeepSeek.
+- 🔗 [Wesley's Journal](https://github.com/SuperInstance/wesley-journal) (dead) — Experiment 027: "the GPU dreams." The covers project is the dream.
+- 🔗 [The Living Minds](https://github.com/SuperInstance/the-living-minds) (dead) — Multiple minds generated covers: Qwen, Phi3, MMX, Casey, DeepSeek.
 - 🔗 [Silence Map](https://github.com/SuperInstance/silence-map) — The pauses between notes. The silence in each cover version.
 - 🔗 [SuperInstance Papers](https://github.com/SuperInstance/SuperInstance-papers) — P32: Dreaming Systems. Covers generated overnight = GPU dreaming.
-- 🔗 [Fleet Wiki](https://github.com/SuperInstance/fleet-wiki) — Cross-referenced documentation.
+- 🔗 [Fleet Wiki](https://github.com/SuperInstance/lucineer-fleet-wiki) — Cross-referenced documentation.
 - 🔗 [MMX CLI](https://github.com/SuperInstance/AI-Writings) — MiniMax-M3 for cover variations and production prompts.
 
 ### Production Chain
